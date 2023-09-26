@@ -1,0 +1,20 @@
+{
+  "books": [
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rolling",
+      "language": "English",
+      "pages": "200",
+      "summary": "First Installment",
+      "id": 1
+    },
+    {
+      "title": "harry potter ",
+      "author": "j k rolling",
+      "language": "english ",
+      "pages": "200",
+      "summary": "english book",
+      "id": 2
+    }
+  ]
+}
